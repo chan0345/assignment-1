@@ -1,0 +1,15 @@
+/* Team */
+Developer/Designer: Anita Chanthavong
+Site: http://chan0345.site44.com/dsn1543/project-1/index.html
+Twitter: @AnitaChnthvng
+Location: Ottawa, Canada
+
+/* Thanks */
+To www.sharkwater.com for providing all of the content.
+
+/* Site */
+
+Last update: 2013/12/12
+Standards: HTML5, CSS3
+Components: Jquery
+Software: Adobe, Sublime Text 2, Livereload

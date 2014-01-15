@@ -1,0 +1,7 @@
+# http://en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://www.robotstxt.org/
+
+Sitemap: http://chan0345.site44.com/dsn1543/project-1/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
